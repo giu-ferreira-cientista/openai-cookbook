@@ -1,0 +1,1568 @@
+sites selecionados
+
+ACESSIBILIDADE
+GERENCIADORES
+    DE REFERÊNCIA 
+MULTIDISCIPLINARES 
+PATENTES 
+ESCRITÓRIOS OFICIAIS DE REGISTRO
+ADMINISTRAÇÃO
+ARQUITETURA 
+ARTES 
+BIBLIOTECONOMIA/CIÊNCIA
+    DA INFORMAÇÃO 
+COMUNICAÇÃO 
+DIREITO 
+ECONOMIA 
+ENGENHARIA
+    CIVIL 
+ENGENHARIA
+    DE QUÍMICA E DE MATERIAIS 
+ENGENHARIA
+    ELÉTRICA 
+ENGENHARIA
+    INDUSTRIAL 
+ENGENHARIA
+    MECÂNICA 
+FILOSOFIA
+FÍSICA 
+GEOGRAFIA 
+HISTÓRIA 
+INFORMÁTICA
+LETRAS 
+MATEMÁTICA 
+PSICOLOGIA 
+QUIMICA 
+REFERÊNCIA    / GERAL 
+RELAÇÕES    INTERNACIONAIS 
+SERVIÇO    SOCIAL 
+SOCIOLOGIA 
+TEOLOGIA 
+
+
+
+ACESSIBILIDADE
+
+RoboBraile.org – (https://www.robobraille.org/)
+Site que Converte pdf em
+    mp3.
+Acessibilidade Inclusiva - (https://www.meempi.com/pt-br/programas-para-computadores/)
+Seleção de Softwares para auxílio a deficientes auditivos e visuais.
+NVDA - (https://www.nvaccess.org/)
+O NVDA (NonVisual Desktop Access) é um leitor de tela  gratuito que
+    permite a deficientes visuais  usem computadores. Leitura  na tela em uma voz
+    computadorizada. O usuário pode controlar o que é lido, movendo o cursor com o
+    mouse ou as setas em seu teclado.
+DOSVOX - (http://intervox.nce.ufrj.br/dosvox/)
+sistema para microcomputadores da linha PC que se
+    comunica com o usuário através de síntese de voz, viabilizando, deste modo, o
+    uso de computadores por deficientes visuais, que adquirem assim, um alto grau
+    de independência no estudo e no trabalho. O DOSVOX convive bem com outros
+    programas de acesso para deficientes visuais (Virtual Vision, Jaws, Window
+    Bridge, Window-Eyes, ampliadores de tela, etc) que porventura estejam
+    instalados na máquina do usuário.
+Fundação Dorina Nowill para Cegos – (https://www.fundacaodorina.org.br/)
+dedicada à inclusão
+    social de pessoas com deficiência visual. Produz  e distribui  gratuitamente
+    livros em braille, falados e digitais acessíveis, diretamente para o público e
+    também para escolas, bibliotecas e organizações de todo o Brasil.
+
+
+GERENCIADORES DE
+      REFERÊNCIA 
+
+EndNote Online  - 
+    (http://endnote.com/product-details/basic)
+Ferramenta para gerenciamento de
+    referências bibliográficas em vários formatos, disponibilizada pela Thomson
+    Reuters, através da plataforma Web of Science, com acesso via Portal CAPES. Tem
+    como objetivo colaborar na reunião e organização de referências - de artigos,
+    papers, capítulos de livros etc, além de outras funcionalidades como gerenciar
+    anexos (exemplo: PDF com o texto completo de um documento - utilizadas na
+    construção de trabalhos acadêmicos).
+Mendeley  – (https://www.mendeley.com/)
+Gerenciador de referências bibliográficas
+    e uma rede social acadêmica da Elsevier. É uma ferramenta que permite, entre
+    outras funcionalidades: organizar suas pesquisas,  gerar bibliografias
+    automaticamente, importar documentos de outros softwares de pesquisa, 
+    localizar documentos relevantes com base no que você está lendo,  acessar
+    on-line seus documentos e ler seus documentos com o novo aplicativo para
+    iPhone.
+
+
+MULTIDISCIPLINARES 
+
+ 
+Sites
+    Selecionados Nacionais
+ 
+Banco
+    de Teses e Dissertações/CAPES  (http://bancodeteses.capes.gov.br/ )
+Área: multidisciplinar
+Abrangência: nacional
+Conteúdo: referência bibliográfica e resumo
+Acesso: público e gratuito
+Nota: teses e dissertações apresentadas a partir de
+    1987. 
+ 
+Biblioteca
+    Digital de Teses e Dissertações (BDTD/IBICT) (http://bdtd.ibict.br/vufind/ )
+Área: multidisciplinar
+Abrangência: nacional
+Conteúdo: referência bibliográfica, resumo e texto
+    completo
+Acesso: público e gratuito
+ 
+CCN
+      (Catálogo Coletivo Nacional de Publicações Seriadas)  (http://ccn.ibict.br/busca.jsf )
+Área:
+    multidisciplinar 
+Abrangência: nacional 
+Conteúdo: informações sobre as coleções periódicas da principais
+    bibliotecas do país 
+Acesso: público gratuito 
+ 
+Domínio
+    Público (http://www.dominiopublico.gov.br/pesquisa/PesquisaObraForm.jsp)
+Área: literatura
+Abrangência: internacional 
+Conteúdo: texto completo 
+Acesso: gratuito 
+Nota: Biblioteca Digital da Secretaria de Educação a Distância do
+    Ministério da Educação.
+Editora
+    PUC-Rio - (http://www.editora.vrc.puc-rio.br/cgi/cgilua.exe/sys/start.htm?tpl=home)
+Nota:  periódicos 
+    e livros acadêmicos, oriundos de pesquisas desenvolvidas na Universidade, ou
+    textos indicados por nosso corpo docente. 
+LivRe!
+    (http://www.cnen.gov.br/centro-de-informacoes-nucleares/livre )
+Área: multidisciplinar
+Abrangência: internacional 
+Conteúdo: referência bibliográfica 
+Acesso: público gratuito 
+Nota: portal desenvolvido pela CNEN - Comissão Nacional de Energia
+    Nuclear, através do CIN - Centro de Informações Nucleares, para facilitar a
+    identificação e o acesso a periódicos eletrônicos de acesso livre na Internet;
+    além da apresentação dos periódicos por letra inicial do título, podem ser
+    feitas buscas por palavras do título e por área do conhecimento segundo a
+    classificação do CNPq, utilizada também no Portal de Periódicos da CAPES.
+Google
+    Acadêmico (https://scholar.google.com.br/ )
+Revista
+    Gávea (http://remoto.dbd.puc-rio.br/isis/gavea/ )
+Abrangência:
+    nacional 
+Conteúdo: referência bibliográfica 
+Acesso: público e gratuito
+Nota: revista semestral do Curso de Especialização em História da Arte e
+    Arquitetura no Brasil, Departamento de História, PUC-Rio, de 1985 a 1997. Não
+    estão disponíveis os textos dos artigos.
+UNICAMP
+    – TESES (http://www.bibliotecadigital.unicamp.br/ )
+Área: multidisciplinar 
+Abrangência: nacional 
+Conteúdo: texto completo 
+Acesso: público e gratuito 
+Nota: textos completos de teses e dissertações apresentadas na
+    UNICAMP.
+ 
+USP
+    – TESES (http://www.teses.usp.br/)
+Área: multidisciplinar 
+Abrangência: nacional 
+Conteúdo: texto completo 
+Acesso: público e gratuito 
+Nota: base em construção com textos completos de teses e
+    dissertações apresentadas na Universidade de São Paulo - USP. 
+
+
+PATENTES 
+
+ 
+Sites
+    Selecionados Internacionais
+ 
+British Library - Links to Patent Information Sources  (http://www.bl.uk/reshelp/findhelprestype/patents/ )
+
+
+ESCRITÓRIOS
+      OFICIAIS DE REGISTRO
+
+ 
+CIPO - Canadian Intellectual Property Office (http://www.ic.gc.ca/eic/site/cipointernet-internetopic.nsf/eng/Home )
+
+
+ADMINISTRAÇÃO 
+
+ 
+Sites
+    Selecionados Nacionais
+ 
+Fundação
+    Getúlio Vargas - Escola de Administração de Empresas de São Paulo (EAESP) (http://ebape.fgv.br/)
+Disponibliza
+    links de interesse para a área e artigos acadêmicos. 
+ 
+Site
+    Selecionados Internacionais
+ 
+ECommerce-Guide.com (http://www.ecommerce-guide.com/ )
+Site sobre e-commerce,
+    disponibiliza artigos, links, dicionário de e-commerce, etc.
+
+
+ARQUITETURA 
+
+ 
+Sites
+    Selecionados Nacionais
+ 
+Revista
+    Gávea (http://remoto.dbd.puc-rio.br/isis/gavea/ )
+Área:
+    artes, arquitetura, história 
+Abrangência: nacional 
+Conteúdo: referência bibliográfica 
+Acesso: público e gratuito
+Nota: revista semestral do Curso de Especialização em História
+    da Arte e Arquitetura no Brasil, Departamento de História, PUC-Rio, de 1985 a
+    1997. Não estão disponíveis os textos dos artigos.
+Sites
+    Selecionados Internacionais
+ 
+The Bauhaus-Archiv Museum of Design (http://www.bauhaus.de/en/ )
+"Argubly one
+    of the most influential schools of design in the 20th century, the Bauhaus
+    movement began in 1919 with its dramatic manifesto penned by Walter Gropius,
+    who stated, "The ultimate aim of all creative activity is a
+    building!" Keeping the legacy of this powerful ideology alive is the
+    Bauhaus-Archiv Museum of Design, founded in 1960, and housed in a building
+    designed by Walter Gropius in Berlin. ...the Bauhaus 1919-1933 section of the
+    site contains brief essays discussing their work in the different plastic arts,
+    including architecture, photography, and art. ....there is a general overview
+    of their holdings. Overall, the site offers a nice overview to the ideas
+    espoused by the Bauhaus school, along with providing details about the museum
+    and its mission." 
+
+ARTES 
+ 
+Sites
+    Selecionados Nacionais
+ 
+Banco
+    de Dados sobre a Televisão Brasileira (http://www.tv-pesquisa.com.puc-rio.br/ )
+ 
+Banco
+    de Peças Teatrais (http://www.centrocultural.sp.gov.br/linha/bpt/bpt.htm )
+ 
+Centro
+    Cultural São Paulo (http://www.centrocultural.sp.gov.br/ )
+"Criado em
+    1990, o Banco de peças do CCSP, disponibiliza informações sobre os textos da
+    dramaturgia brasileira e estrangeira, em língua portuguesa, do acervo da
+    Biblioteca Sérgio Milliet. O Banco contém índices de autor, título, gênero,
+    número de personagens (femininos e masculinos), desde 1998."
+ 
+Domínio
+    Público (http://www.dominiopublico.gov.br/pesquisa/PesquisaObraForm.jsp )
+ 
+Revista
+    Gávea (http://remoto.dbd.puc-rio.br/isis/gavea/ )
+Área: artes, arquitetura, história 
+Abrangência: nacional 
+Conteúdo: referência bibliográfica 
+Acesso: público e gratuito
+Nota: revista semestral do Curso de
+    Especialização em História da Arte e Arquitetura no Brasil, Departamento de
+    História, PUC-Rio, de 1985 a 1997. Não estão disponíveis os textos dos artigos.
+Sumários
+    de Periódicos nas áreas de Comunicações e Artes e Biblioteconomia (http://www3.eca.usp.br/taxonomy/term/940 )
+Serviço
+    de Biblioteca e Documentação da Escola de Comunicações e Artes da USP.
+Sites Selecionados Internacionais
+ 
+The Bauhaus-Archiv Museum of Design (http://www.bauhaus.de/en/ )
+"Argubly one
+    of the most influential schools of design in the 20th century, the Bauhaus
+    movement began in 1919 with its dramatic manifesto penned by Walter Gropius,
+    who stated, "The ultimate aim of all creative activity is a
+    building!" Keeping the legacy of this powerful ideology alive is the
+    Bauhaus-Archiv Museum of Design, founded in 1960, and housed in a building
+    designed by Walter Gropius in Berlin. ...the Bauhaus 1919-1933 section of the site
+    contains brief essays discussing their work in the different plastic arts,
+    including architecture, photography, and art. ....there is a general overview
+    of their holdings. Overall, the site offers a nice overview to the ideas
+    espoused by the Bauhaus school, along with providing details about the museum
+    and its mission." 
+ 
+Smithsonian American Art Museum: Interact (http://americanart.si.edu/education/activities/online/ )
+"At Interact, the Smithsonian American Art Museum
+    (SAAM) invites visitors to explore its collections through "rich
+    media" where they "post slide shows, podcasts, and other resources
+    that present our collection in new and engaging ways."
+ 
+Visual Arts Data Service (http://www.vads.ac.uk/ )
+"The Design
+    Council Slide Collection contains nearly 3000 fully catalogued images covering
+    a wide range of subjects including tableware, furniture, lighting, toys,
+    domestic appliances, textiles, wallpapers, office equipment, engineering
+    components and machinery. Other areas of design such as architecture, town
+    planning, interior design, graphic design and corporate identity are also
+    included.  The addition of this resource to the collections already on-line
+    means that VADS now provides more than 6000 images and records covering many
+    areas of late 20th century design, for use in research, learning and
+    teaching." 
+
+
+BIBLIOTECONOMIA/CIÊNCIA
+      DA INFORMAÇÃO 
+
+ 
+Sites
+    Selecionados Nacionais
+ 
+CBBU
+    - Comissão Brasileira de Bibliotecas Universitárias (http://cbbublogger.blogspot.com.br/ )
+ 
+Classificação
+    Decimal de Direito (http://www4.planalto.gov.br/centrodeestudos/assuntos/classificacao-decimal-de-direito )
+Doris
+    de Queiroz Carvalho 
+
+Compartilhamento
+    entre Bibliotecas de Instituições de Ensino Superior do Estado do Rio de
+    Janeiro (http://www.uva.br/cbies/ )
+ 
+Conservação
+    Preventiva em Bibliotecas e Arquivos (http://www.arqsp.org.br/cpba/)
+ "...pretende
+    reunir e disseminar o conhecimento atualizado sobre a preservação de documentos
+    e registros em papel, som, filme, fotografia e meio digital" 
+ 
+Dicionário
+    Eletrônico em Terminologia em Ciência da Informação (https://paginas.fe.up.pt/~lci/index.php/1668 )
+ 
+A
+    Economia da Cadeia Produtiva do Livro (https://web.bndes.gov.br/bib/jspui/handle/1408/2041 )
+Publicação
+    BNDES, 2005 
+ 
+More
+    - Mecanismo online para referências (http://www.more.ufsc.br/ )
+"Ferramenta
+    gratuita e fácil de usar, que produz automaticamente citações no texto e
+    referências no formato ABNT, para quinze (15) tipos de documentos, a partir de
+    formulários próprios, selecionados em um menu principal. Os documentos cobertos
+    pelo mecanismo são os mais usados no meio acadêmico: livros, dicionários,
+    enciclopédias, teses e dissertações, artigos de revistas, artigos de jornais,
+    nos formatos impresso e eletrônico, além dos documentos exclusivos em meio
+    eletrônico: home-page e e-mail. 
+    Além disso o programa automatiza algumas procedimentos tais como: a inversão
+    dos nomes dos autores (sobrenome, prenomes); uso de maiúsculas e minúsculas,
+    grifo no título e pontuação."
+Desenvolvido pela UFSC.
+ 
+Portal
+    Bibliotecário (http://portaldobibliotecario.com/ )
+ 
+Portal
+    do Grupo de Pesquisa em Marketing da Informação (http://prossiga.ibict.br/portais/marketing/htmls/bvmarketingrupo.htm )
+"O 
+    Portal pretende facilitar o acesso à informação sobre planejamento, gestão da
+    informação e do conhecimento sob a ótica de marketing, abordando aspectos
+    técnicos, tecnológicos, políticos, legais e sociais da oferta de produtos e
+    serviços de informação no ambiente tradicional e na Internet."
+ 
+ProBE
+    - Programa Biblioteca Eletrônica (https://cienciaesociedade.wordpress.com/bibliotecas-virtuais/probe-programa-biblioteca-eletronica/ )
+Site
+    do programa com informações sobre o consórcio, normas e procedimentos,
+    bibliotecas participantes. 
+    FAPESP 
+ 
+Repositório
+    Acadêmico de Biblioteconomia e Ciência da Informação (http://rabci.org/rabci/)
+ 
+Sumários
+    de Periódicos nas áreas de Comunicações e Artes e Biblioteconomia (http://www3.eca.usp.br/taxonomy/term/940 )
+Serviço
+    de Biblioteca e Documentação da Escola de Comunicações e Artes da USP.
+Sites Selecionados Internacionais
+ 
+AACR - Joint Steering Committee for Revision of  (http://www.aacr2.org/governance.html )
+ 
+AACR2: Descriptive Cataloguing for Monographs (http://library.queensu.ca/techserv/cat/Sect02/c02a2.html )
+ 
+Attributes of a Trusted Digital Repository: Meeting
+    the Needs of Research Resources (http://www.oclc.org/research/activities/trustedrep.html)
+"In March 2000, Research Libraries Group and OCLC
+    formed a collaboration to establish attributes of digital repositories for
+    research institutions.... The current 52-page report attempts to codify
+    understanding of the issues amongst the concerned community (libraries,
+    archives, historical societies, archivists, digital librarians, computer
+    scientists, and the like) and further develop practical, structured approaches
+    toward resolving problems of technology and administration as well as trust and
+    confidence. This report (for public comment) will interest anyone concerned
+    with the future direction of the burgeoning digital record of our culture and
+    the new roles traditional institutions play." 
+ 
+Bibliotheca
+    Alexandrina (http://www.bibalex.org/en/default )
+ 
+European Library (http://www.theeuropeanlibrary.org/tel4/ )
+For searching the content of European national
+    libraries. 
+
+Historical Research in Europe: A Guide to Archives and
+    Libraries (http://digicoll.library.wisc.edu/HistResEur/ )
+"...the University of Wisconsin Digital Content
+    Group has developed this Web site to assist researchers seeking to use European
+    libraries and archives. With a focus on Western Europe, the prime function of
+    the interactive database is "to unite both Web-based and printed resources
+    which provide information about European libraries and archives." The
+    database can be searched by keyword or subject headings, which include Science,
+    Audio-Video, Church Archives, and Foreign Relations. Within these subjects,
+    individual records are returned that include the title, subject, creator, and
+    in many cases, an URL. Without a doubt, this database will be a great research
+    tool for those persons traveling to Europe to perform research in a host of
+    disciplinary traditions." 
+
+Journal of Information Literacy (http://www.informationliteracy.org.uk/ )
+ 
+National Library Catalogues Worldwide (https://www.lib.umn.edu/indexes/moreinfo?id=14331 )
+ 
+Tabela
+    Cutter (http://203.241.185.12/asd/board/Author/upfile/abcd.htm )
+ 
+UNESCO
+    Libraries Portal  (http://www.unesco.org/new/en/communication-and-information/portals-and-platforms/unesco-libraries-portal/)
+"An international information gateway for
+    librarians and library users." 
+ 
+The Virtual Reference Desk (http://www.virtualref.com/ )
+
+
+COMUNICAÇÃO 
+
+ 
+Sites
+    Selecionados Nacionais
+ 
+Banco
+    de Dados sobre a Televisão Brasileira (http://www.tv-pesquisa.com.puc-rio.br/)
+ 
+ENECOS
+    - Executiva Nacional dos Estudantes de Comunicação Social  (http://enecos.com.br/)
+"...entidade
+    apartidária, sem fins lucrativos, que representa os estudantes dos cursos de
+    graduação de Comunicação Social do Brasil. (...) é composta pelos Centros e
+    Diretórios Acadêmicos filiados à ela e também por uma diretoria, eleita por
+    meio de voto direto, com mandato de um ano." O site oferece informações
+    sobre encontros, resoluções, notícias, etc.
+ESCOLHA
+    SEU SHAKESPEARE (http://www.dbd.puc-rio.br/shakespeare/index.htm )
+ 
+Manual
+    de Redação (http://bd.camara.gov.br/bd/handle/bdcamara/5684 )
+SECOM
+    Secretária de Comunicação Social
+    Câmara dos Deputados
+ 
+Sites
+    Selecionados Internacionais
+ 
+ASIFA-Hollywood (http://www.asifa-hollywood.org/ )
+"Founded in 1957 as the Association
+    Internationale Du Film D'Animation (ASIFA), this organization is "devoted to
+    the encouragement and dissemination of film animation as an art and
+    communication form". ...by looking through the Annie Awards section of the
+    site... details the past (and current) winners of these film animation awards
+    since their inception in 1972. ...take a look at the ASIFA-Hollywood Animation
+    Archive offered." 
+ 
+From The Scout Report, Copyright Internet Scout Project 1994-2006. (https://scout.wisc.edu/)
+ 
+BusinessJournalism.org (https://businessjournalism.org/ )
+"Created by the Donald W. Reynolds National Center for
+    Business Journalism at Arizona State University the site was launched in
+    February 2004, and since then it has grown to include a host of instructional
+    materials, including tutorials on how to cover financial markets and
+    understanding financial markets. Along the left-hand side of the site's
+    homepage, visitors will find the "Covering Business" area, which contains
+    helpful articles on writing about the stock market, technology, minority business
+    trends, and business ethics. The site also contains a glossary of business
+    terms..."
+ 
+Medicine and Madison Avenue (http://library.duke.edu/digitalcollections/mma/ )
+"Sponsored
+    by the National Humanities Center, the Digital Scriptorium, and Duke
+    University, this online exhibit examines "the complex relationship between
+    modern medicine and modern advertising." Containing over 600 documents
+    dating from 1913 to 1963, the collection contains different printed
+    advertisements organized around categories such as personal and oral hygiene
+    and household products. Perhaps the most compelling of these categories are the
+    supplementary documents that include scanned images of internal reports from
+    different marketing companies, along with editorials and articles from medical
+    journals during the period."
+
+
+DIREITO 
+
+ 
+Sites
+    Selecionados Nacionais 
+ 
+Biblioteca
+    Digital Jurídica (http://bdjur.stj.jus.br/jspui/ 
+    )
+Biblioteca digital jurídica do Superior Tribunal de Justiça
+ 
+Biblioteca
+    Virtual Bioética (http://bvsbioeticaediplomacia.fiocruz.br/ 
+    )
+BIREME/OMS
+ 
+InfoJus
+    (http://www.infojusbrasil.com.br/ )
+Site de busca na área do Direito. Disponibiliza artigos, notícias,
+    links, serviços, consumidor on-line, eventos, etc. 
+ 
+Portal
+    Jurídico (http://portaljuridico.wix.com/site )
+ 
+Superior
+    Tribunal de Justiça (http://www.stj.jus.br/portal/site/STJ )
+Consulta a
+    licitações e processos; informações sobre a instituição - atribuições,
+    funcionamento, leis que se referem ao tribunal, regimento interno, súmulas,
+    etc; consulta a Biblioteca. 
+
+
+ECONOMIA 
+
+ 
+Sites
+    Selecionados Nacionais
+ 
+BM&FBVESPA
+    (http://www.bmfbovespa.com.br/home.aspx?idioma=pt-br )
+Ensaios
+    Econômicos da Escola de Pós-Graduação em Economia - FGV/RJ 
+ 
+(http://epge.fgv.br/pt/pesquisa/ensaios-economicos )
+Textos completos, em PDF, a partir de 1999; nos anos anteriores,
+    somente alguns autores disponibilizam o texto completo. 
+
+Instituto
+    de Economia – UNICAMP (http://www3.eco.unicamp.br/ )
+Artigos dos docentes do Instituto de Economia da Universidade
+    Estadual de Campinas; pesquisa por autor ou assunto. 
+ 
+Textos
+    para Discussão - Departamento de Economia - PUC-Rio (http://www.econ.puc-rio.br/index.php/publicacao/busca/5/pagina?pagina=1 )
+Textos completos, produzidos pelos Professores do Departamento, a
+    partir de 1997; apenas referência bibliográfica de 1979 a 1996. 
+ 
+Texto
+    para Discussão - Série Economia - USP Faculdade de Economia, Administração e
+    Contabilidade de Reibeirão Preto
+(http://www.fearp.usp.br/pt-br/pesquisa/publicacoes/textos-para-discussao/itemlist/category/153-departamento-de-economia.html )
+ 
+Sites
+    Selecionados Internacionais
+ 
+Annual Report Gallery (http://www.annualreports.com/ )
+"With over 2000 annual reports,
+    Cornerstone IR's Annual Report Gallery covers annual reports from almost all of
+    the Fortune 500 companies, among others. The reports are in alphabetical order
+    by company name, and each entry includes the annual report, a company overview,
+    and stock information. Along with this collection of annual reports, Annual
+    Report Gallery's Financial Links page is worth a gander, showcasing a fine
+    assortment of links to international stock exchanges, market information, and
+    online magazines and newspapers."
+ 
+Business English Online (http://www.talkenglish.com/speaking/listbusiness.aspx )
+"This wide and varying index covers
+    all matters of business language. Business English Online links to sites that
+    help users with their language in business presentations, multi-lingual
+    assistance, and business writing. Resources range from glossaries of accounting
+    definitions to vocabulary quizzes of real estate terms." 
+ 
+Inter-American Development Bank (http://www.iadb.org/en/inter-american-development-bank,2837.html )
+ 
+Living Standards Measurement Study -- World Bank Group
+    (http://econ.worldbank.org/WBSITE/EXTERNAL/EXTDEC/EXTRESEARCH/EXTLSMS/0,,contentMDK:21610833~pagePK:64168427~piPK:64168435~theSitePK:3358997,00.html )
+"The Living Standards Measurements
+    Study (LSMS) Website, from the World Bank Group, serves as a resource for
+    researchers, worldwide, with data sets and methodological lessons taken from
+    LSMS's household surveys. This site guides users through an introduction to
+    LSMS and includes a five-step process to determine if data will be helpful for
+    users's needs. In addition to the actual data, the site features a huge
+    bibliography of several hundred research reports based on LSMS information and
+    studies and activities that have used this information." 
+
+London School of Economics (http://www.lse.ac.uk/home.aspx)
+The Department  of Information
+    Systems 
+    Working Paper Series 
+
+
+EDUCAÇÃO 
+
+ 
+Sites
+    Selecionados Nacionais
+ 
+AÇÃO
+    EDUCATIVA (http://www.acaoeducativa.org/)
+"... organização não governamental que atua nas áreas da
+    educação e da juventude. ... desenvolve projetos que envolvem formação de
+    educadores e jovens, animação cultural, pesquisa, informação, assessoria a
+    políticas públicas, participação em redes e outras articulações
+    interinstitucionais. . "  Disponibiliza publicações para download,
+    boletins on-line, projetos, eventos, parcerias, etc. 
+
+ABD
+    - Associação Brasileira de Dislexia (http://dislexia.org.br/v1/ )
+O que é, perguntas e respostas, artigos, seminários, etc.
+LITE
+    - Laboratório Interdisciplinar  de Tecnologias Educacionais (http://www.lite.fe.unicamp.br/)
+"O LITE tem como objetivos: ser um espaço (...) promoção de
+    pesquisa, desenvolvimento e difusão de material didático-pedagógico baseados na
+    telemática e telecomunicação;  atualizar e capacitar os docentes associados
+    no uso de novas tecnologias de informação e comunicação, contribuir para o
+    aprimoramento de iniciativas de educação à distância; participar de projeots
+    multi-institucionais para  a melhoria do ensino; ser um fórum de
+    discussão, pesquisa, execução e avaliação de ações relacionadas com a temática
+    das tecnologias educacionais". Disponibliza textos, projetos, 
+    grupos  de estudos, periódicos, etc. Site da Universidade de Campinas
+    (UNICAMP). 
+ 
+Sites
+    Selecionados Internacionais
+ 
+Education Virtual Library (http://vlib.org/Education)
+Lista sites na área de Educação divididos por nível educacional,
+    tipos de sites,  países e recursos para pesquisa e desenvolvimento
+    (bibliografias, softwares, bases de dados, tecnologia, etc.).Site pertecente ao WWW Virtual Library Project . 
+
+The Encyclopedia of Educational Technology (http://www.etc.edu.cn/eet/eet/ 
+    )
+"The Encyclopedia of Educational
+    Technology (EET) is a collection of short multimedia articles on a variety of
+    topics related to the fields of instructional design and education and
+    training. The primary audiences for the EET are students and novice to
+    intermediate practitioners in these fields, who need a brief overview as a
+    starting point to further research on specific topics. Authors are graduate
+    students, professors, and others who contribute voluntarily. Articles are short
+    and use multimedia to enrich learning rather than merely decorate the
+    pages" 
+
+EURYDICE
+    (http://eacea.ec.europa.eu/education/eurydice/index_en.php )
+"The education information network in
+    Europe produces reliable, readily comparable information on national education
+    systems and policies.
+EURYDICE also acts as an observatory,
+    highlighting both the diversity of systems and their common features. By
+    circulating the results of its work, EURYDICE promotes better mutual
+    understanding of these systems and the common issues that run through them.
+    EURYDICE is part of Socartes, the Community Programme on Education, European
+    Commission, Education and Culture". 
+
+Disponibiliza thesaurus on-line, publicações para download e a
+      base de dados EURYBASE. 
+International Archive of Education Data (IAED) 
+(http://www.researchconnections.org/icpsrweb/ICPSR/studies/155)
+"Sponsored by the National Center for
+    Education Statistics (NCES) and hosted by the Inter-university Consortium for
+    Political and Social Research (ICPSR), at the University of Michigan, this
+    archive will collect and disseminate data "pertaining to all levels of education
+    in countries for which data can be made available." 
+Designed with
+    academics, researchers, and policymakers in mind, the archive opens its virtual
+    doors with 72 collections comprising more than 1,250 files from the NCES.
+    Current IAED holdings include Elementary/ Secondary Surveys, Postsecondary
+    Surveys, Longitudinal Surveys, and Library and Education Assessment surveys.
+    Abstracts, datasets, and a link to the NCES site for each survey are
+    provided." 
+
+Literacy.org (http://literacy.org/ )
+"Literacy.org is a gateway to electronic resources and tools for
+    the national and international youth and adult literacy communities. This site
+    is jointly sponsored by the International Literacy Institute (ILI) and the
+    National Center on Adult Literacy (NCAL) at the University of Pennsylvania
+    Graduate School of Education."
+
+
+ENGENHARIA CIVIL 
+
+ 
+Sites
+    Selecionados Nacionais
+ 
+Biblioteca
+    Virtual de Inovação Tecnológica (http://inovacaotecnologica.ibict.br/ )
+"...desenvolvida pelo CNPq/Prossiga em parceira com a FINEP.
+    Composta por uma seleção abrangente de sites nacionais e internacionais,
+    agrupados por assuntos e setores da atividade econômica, devidamente analisados
+    e comentados, a biblioteca virtual permite acesso a informações relacionadas ao
+    tema-chave "Inovação Tecnológica", distribuídas em categorias como
+    "Estudos e Diagnósticos Setoriais Brasileiros", "Confederações,
+    Federações e Associações Empresariais", "Centros e Grupos de
+    Pesquisas Tecnológicas Brasileiros", "Indicadores e
+    Estatísticas", "Órgãos de Regulação, Normalização e
+    Fiscalização", "Patentes e Marcas", entre outras." 
+ 
+Glossário
+    Geológico Ilustrado (http://sigep.cprm.gov.br/glossario/ )
+Unb 
+ 
+Sites
+    Selecionados Internacionais
+ 
+Essentials of Geology (http://books.wwnorton.com/studyspace/disciplines/discipline.aspx?DiscId=10 )
+"From subduction to the world of hot spot volcanoes,
+    this online resource for students and teachers of geology will please users
+    with its fun and useful animations, crossword puzzles, and well-written
+    articles. The site was designed to complement a textbook created by W.W.
+    Norton, but many of the materials can be used as stand-alone exercises. ...
+    begin by looking through the visually enticing animations, which cover the
+    Earth's magnetic field, the spread of the sea floor, and the formation of ocean
+    crust ....there are over sixty animations".
+Glossary of Soil Science Terms (https://www.soils.org/publications/soils-glossary )
+"The Soil Science Society of
+    America's maintains the Internet Glossary of Soil Science Terms Web site.
+    ...searchable and browseable dictionary of hundreds of soil terms. Other
+    resources include tables, which include terms for describing consistence of
+    block-like specimens, pore size classification, and soil water terminology, as
+    well as appendixes on soil taxonomy." 
+ 
+The Society of Exploration Geophysicists (http://www.seg.org/seg )
+
+
+ENGENHARIA DE QUÍMICA E
+      DE MATERIAIS 
+
+ 
+Sites
+    Selecionados Nacionais
+ 
+Lista
+    de links do site do Departamento de Engenharia de Química e de Materiais -
+    PUC-Rio (http://www.deqm.puc-rio.br/?pag=links )
+ 
+Sites Selecionados Internacionais
+ 
+Teaching Engineering (https://engineering.purdue.edu/ChE/index.html/teaching_engineering/Publications )
+"The
+    Electronic Clearinghouse for Exemplary Engineering Technology Resources (or
+    NETEC) is a site created with substantial funding from the National Science
+    Foundation. Drawing on the teaching experiences and resources developed by many
+    concerned persons in industry and academic settings, the Clearinghouse contains
+    everything from course materials for material engineering to journal articles
+    that deal with the science (and art) of teaching in the subfields of
+    engineering."
+
+
+ENGENHARIA ELÉTRICA 
+
+ 
+Sites
+    Selecionados Nacionais
+ 
+Biblioteca
+    Virtual de Inovação Tecnológica (http://inovacaotecnologica.ibict.br/ )
+"...desenvolvida pelo CNPq/Prossiga em parceira com a
+    FINEP. 
+    Composta por uma seleção de sites nacionais e internacionais, agrupados por
+    assuntos e setores da atividade econômica, ... a biblioteca virtual permite
+    acesso a informações relacionadas ao tema-chave "Inovação Tecnológica",
+    distribuídas em categorias como "Estudos e Diagnósticos Setoriais
+    Brasileiros", "Confederações, Federações e Associações Empresariais",
+    "Centros e Grupos de Pesquisas Tecnológicas Brasileiros",
+    "Indicadores e Estatísticas", "Órgãos de Regulação, Normalização
+    e Fiscalização", "Patentes e Marcas", entre outras. 
+ 
+Sites Selecionados Internacionais
+ 
+Center for Energy and Environmental Studies (CEES) (http://www.subr.edu/index.cfm/page/1499/n/1309 )
+"Located at Boston University, CEES
+    is a multi-disciplinary program that offers "education, research, and
+    professional training in the fields of energy and environmental analysis."
+    The CEES Website provides background information on the program and faculty. Of
+    greatest interest to non-affiliated users is the research section, which
+    contains abstracts and the full text of a number of papers by CEES staff. Also
+    included are abstracts and links to publications written by faculty that are
+    hosted elsewhere." 
+
+
+ENGENHARIA INDUSTRIAL 
+
+ 
+Sites
+    Selecionados Nacionais
+ 
+Biblioteca
+    Virtual de Inovação Tecnológica (http://inovacaotecnologica.ibict.br/ )
+"...desenvolvida pelo CNPq/Prossiga em parceira com a FINEP.
+    Composta por uma seleção abrangente de sites nacionais e internacionais,
+    agrupados por assuntos e setores da atividade econômica, devidamente analisados
+    e comentados, a biblioteca virtual permite acesso a informações relacionadas ao
+    tema-chave "Inovação Tecnológica", distribuídas em categorias como
+    "Estudos e Diagnósticos Setoriais Brasileiros", "Confederações,
+    Federações e Associações Empresariais", "Centros e Grupos de
+    Pesquisas Tecnológicas Brasileiros", "Indicadores e
+    Estatísticas", "Órgãos de Regulação, Normalização e
+    Fiscalização", "Patentes e Marcas", entre outras. 
+
+Sites
+    Selecionados Internacionais
+ 
+Annual Report Gallery  (http://www.annualreports.com/ )
+"With
+    over 2000 annual reports, Cornerstone IR's Annual Report Gallery covers annual
+    reports from almost all of the Fortune 500 companies, among others. The reports
+    are in alphabetical order by company name, and each entry includes the annual
+    report, a company overview, and stock information. Along with this collection
+    of annual reports, Annual Report Gallery's Financial Links page is worth a
+    gander, showcasing a fine assortment of links to international stock exchanges,
+    market information, and online magazines and newspapers." 
+
+
+ENGENHARIA MECÂNICA 
+
+ 
+          Sites
+    Selecionados Nacionais 
+         
+Biblioteca
+    Virtual de Inovação Tecnológica (http://inovacaotecnologica.ibict.br/ )
+"...desenvolvida pelo CNPq/Prossiga em parceira com a FINEP.
+    Composta por uma seleção abrangente de sites nacionais e internacionais,
+    agrupados por assuntos e setores da atividade econômica, devidamente analisados
+    e comentados, a biblioteca virtual permite acesso a informações relacionadas ao
+    tema-chave "Inovação Tecnológica", distribuídas em categorias como
+    "Estudos e Diagnósticos Setoriais Brasileiros", "Confederações,
+    Federações e Associações Empresariais", "Centros e Grupos de
+    Pesquisas Tecnológicas Brasileiros", "Indicadores e
+    Estatísticas", "Órgãos de Regulação, Normalização e
+    Fiscalização", "Patentes e Marcas", entre outras. 
+
+Sites
+    Selecionados Internacionais
+ 
+Berkeley Automation Sciences Lab (http://automation.berkeley.edu/ )
+"UC
+    Berkeley's Automation Sciences Lab, directed by Professor Ken Goldberg of IEOR
+    and EECS, is a center for research in robotics and automation, with current
+    projects in networked telerobotics, computer assisted surgery, automated
+    manufacturing, and new media artforms.". 
+
+
+FILOSOFIA
+ 
+
+Sites Selecionados
+    Nacionais
+ 
+GEN
+    - Grupo de Estudos Nietzsche (http://www.cadernosnietzsche.unifesp.br/GEN/ )
+"Fundado em 1996, o GEN - Grupo de Estudos Nietzsche
+    persegue o objetivo, há muito acalentado, de reunir os estudiosos brasileiros
+    do pensamento de Nietzsche e, portanto, promover a discussão acerca de questões
+    que dele emergem. Atuando junto ao Departamento de Filosofia da USP, suas
+    atividades organizam-se em torno da Coleção "Sendas e Veredas", dos
+    Cadernos Nietzsche e dos Encontros Nietzsche, que têm lugar em maio e setembro
+    quando do lançamento dos títulos da coleção e dos números da revista. O GEN
+    mantém ainda intercâmbio permanente com as diversas Nietzsche Societies
+    internacionais. " Disponibiliza alguns artigos dos Cadernos
+    Nietzsche.  Site da  USP/FFLCH.
+Links
+    do site do Departamento de Filosofia - PUC-Rio (http://www.fil.puc-rio.br/outros_links.html )
+ 
+Portal
+    de Filosofia e Educação (http://www.filoeduc.org/)
+"... objetivos: divulgar novidades, tendências e perspectivas
+    do ensino da filisofia; textos inéditos; divulgar a publicação de novos livros,
+    disponibilizar livrose traduções exclusivas..."
+ 
+Textos
+    de Filosofia (http://fil.cfh.ufsc.br/textos-filosoficos/ )
+Artigos sobre introdução à Filosofia, teoria do conhecimento,
+    lógica e filosofia da ciência, filosofia analítica e filosofia da linguagem,
+    filosofia da mente, ética, filosofia da educação; site do Departamento de
+    Filosofia da UFSC (Universiade Federal de Santa Catarina).
+Sites
+    Selecionados Internacionais
+ 
+Auguste
+    Comte et le positivisme (http://www.augustecomte.org/spip.php?rubrique10 )
+Site dedicado a obra do filósofo positivista Auguste Comte,
+    disponibilizando vários recursos, inclusive, textos eletrônicos. Site em
+    francês e inglês.
+Augustine of Hippo (http://www.egs.edu/library/augustine-of-hippo/biography/ )
+Site dedicado à Santo Agostinho. Disponibiliza textos on-line,
+    traduções e outros recursos sobre o filósofo.
+Descartes'
+    Meditations (http://www.wright.edu/~charles.taylor/descartes/mede.html )
+"English-Latin-French HTML edition
+    of Descartes' Meditations on First Philosophy."
+ 
+Ereignis (http://www.beyng.com/ )
+"It contains information on the
+    German philosopher Martin Heidegger (1889-1976) and links to related web pages
+    in English."
+ 
+The International Directory of On-Line Philosophy
+    Papers (http://philpapers.org/ )
+Mais de 460 papers e pre-prints submetidos por filósofos em
+    instituições acadêmicas; os papers estão organizados por assunto; recupera por
+    palavra-chave; é fornecido título, autor, data, assunto, formato, e link URL
+    para o item, alguns apresentam abstracts.
+The Internet Encyclopedia of Philosophy (http://www.iep.utm.edu/ )
+ 
+Philosophers' Imprint (http://www.philosophersimprint.org/ )
+"...online journal Philosophers'
+    Imprint, which was started in 2001. The journal is a refereed series of
+    original papers edited by the philosophy faculty at the University of Michigan,
+    and published by the University of Michigan Digital Library."
+ 
+Web
+    Deleuze (http://www.webdeleuze.com/php/index.html )
+Site sobre o
+    filósofo. Disponibiliza trabalhos do autor.
+
+
+FÍSICA 
+ 
+
+Sites
+    Selecionados Nacionais 
+ 
+Biblioteca
+    Virtual de Óptica Básica e Aplicada do IFSC/USP  (http://www.bv.fapesp.br/pt/auxilios/32061/biblioteca-virtual-em-optica-basica-aplicada-do-ifscusp/ )
+Reune informações nacionais e estrangeiras sobre artigos e outros
+    textos, associações e sociedades científicas, empresas e orgãos afins, bases de
+    dados, bibliotecas, eventos, insituições de ensino. 
+    Projeto PROSSIGA - CNPq/USP 
+ 
+Sociedade
+    Brasileira de Física (http://www.sbfisica.org.br/v1/ )
+Oferece informações sobre eventos, pesquisas na área e texto
+    completo das seguintes publicações: Brazilian Journal of Physics, Revista de
+    Física Aplicada e Instrumentação, Revista Brasileira de Ensino de Física e A
+    Física na Escola. 
+
+Observatório
+    do Valongo (http://www.ov.ufrj.br/ )
+ 
+Sites Selecionados
+    Internacionais
+ 
+An Introduction to Particle Physics (http://www.rl.ac.uk/Pub/Phil/contents.html )
+"The Particle Physics Department at
+    Rutherford Appleton Laboratory (RAL) provides the Introduction to Particle
+    Physics homepage... The Introduction provides more information on Accelerators,
+    Detectors, Antimatter, Big Bang Science, and Dark Matter. Further information
+    can be found in The Big Bang and The Top Quark sections, both of which provide
+    images and in-depth summaries. Users can navigate via a contents page or
+    through links at the bottom of the page." 
+ 
+ CERN (http://home.web.cem.ch/)
+The world's largest particle physics laboratory
+    "CERN is the European Organization for Nuclear Research, the world's
+    largest particle physics centre. CERN is a laboratory where scientists unite to
+    study the building blocks of matter and the forces that hold them
+    together."
+ 
+Nanotechnology and Nanoscience  (http://www.nanowerk.com/ )
+"... it contains links to recent news
+    stories about the field, coupled with a database containing
+    nanotechnology-related links to universities, research labs and institutes, and
+    associations."
+ 
+Physics (http://www.animations.physics.unsw.edu.au/)
+"Visitors can make their way through
+    "physclips" by clicking on sections that include "Centre of
+    Mass", "Circular Motion", "Gravity", and eight others.
+    Each section includes learning modules with video clips that demonstrate
+    different principles, along with links to other relevant background materials.
+    The organization of the entire site is quite impressive, and visitors can also
+    download each video clip for use in their own classroom." 
+
+Physics Education Technology  (https://ioer.ilsharedlearning.org/Resource/290623/PhEt_-_Physics_Education_Technology)
+"Funded by grants from The William
+    and Flora Hewlett Foundation and the National Science Foundation, the Physics
+    Education Technology (PhET) site features many well-designed and engaging
+    physics and chemistry simulations for use in the classroom. Currently, the site
+    offers fifteen simulations, which cover projectile motion, salts &
+    solubility, wave interference, and other related areas. Visitors can run the
+    simulations from their computer, or they can also elect to download them
+    individually. The simulations are all interactive, full of color, and very
+    engaging." 
+ 
+Physnet (http://www.physnet.net/) 
+"From the Carl von Ossietzky
+    Universitat Oldenburg, Germany, the physics department hosts PhysNet, an
+    excellent resource for physicists in search of listings of physics departments,
+    documents, free journals, and conferences. The Website contains links to
+    departments worldwide and provides a centralized source for accessing material
+    from each of those departments. The searchable PhysDoc lets users enter a
+    search term or author listing, and the engine returns links for that term from
+    physics departments's publications pages around the world. MetaPhys, a physics
+    document meta search engine sponsored by the European Physical Society, acts as
+    a single interface for many of the major databases holding e-prints, preprints,
+    and databases of various publishers. The PhysNet Journals section contains
+    links to free physics-related journals worldwide." 
+ 
+Science.gov (http://www.science.gov/ )
+
+
+GEOGRAFIA 
+ 
+
+Sites Selecionados Nacionais
+ 
+LiVRe 
+    (http://www.cnen.gov.br/centro-de-informacoes-nucleares/livre )
+Área: multidisciplinar
+Abrangência: internacional 
+Conteúdo: referência bibliográfica 
+Acesso: público gratuito 
+Nota: portal desenvolvido pela CNEN - Comissão Nacional
+    de Energia Nuclear, através do CIN - Centro de Informações Nucleares, para
+    facilitar a identificação e o acesso a periódicos eletrônicos de acesso livre
+    na Internet; além da apresentação dos periódicos por letra inicial do título,
+    podem ser feitas buscas por palavras do título e por área do conhecimento
+    segundo a classificação do CNPq, utilizada também no Portal de Periódicos da
+    CAPES. 
+ 
+Sites
+    Selecionados Internacionais 
+ 
+Natural History Museum (http://www.nhm.ac.uk/)
+
+
+HISTÓRIA 
+ 
+
+Sites
+    Selecionados Nacionais 
+ 
+Centro
+    de Pesquisa em História Social da Cultura  (http://www.cecult.ifch.unicamp.br/ )
+"O CECULT- Centro de Pesquisa em História Social da Cultura
+    (IFCH/UNICAMP) foi criado e começou suas atividades em agosto de 1995. Fruto de
+    trabalhos desenvolvidos na graduação e na pós-graduação por um grupo de
+    docentes do departamento de história da UNICAMP, tem como objetivo estimular e
+    sustentar uma reflexão sobre as práticas e tradições das classes populares, a
+    partir dos embates envolvidos nas relações culturais entre grupos diversos ao
+    longo da história do Brasil. Busca-se, a partir de suas atividades, subsidiar
+    uma análise sobre alguns conceitos que aparecem de forma recorrente nas
+    interpretações construídas dentro e fora da academia sobre a história do país -
+    como o de cultura popular, cultura operária, cultura negra e cultura nacional.
+    O esforço de reflexão desdobra-se, por isso, sobre quatro eixos de investigação 
+    principais". 
+
+Departamento
+    de História da PUC-Rio (http://www.his.puc-rio.br/ )
+ 
+Nirema
+    - Núcleo Interdisciplinar de Reflexão e Memória Afrodescendente (http://www.nirema.puc-rio.br/ )
+ 
+Sites
+    Selecionados Internacionais
+ 
+The Hoover Institute (http://www.hoover.org/ )
+"The Hoover Institution was founded
+    by Herbert Hoover to collect and archive documents related to the causes and
+    consequences of World War I, and soon grew into one of the largest libraries
+    devoted solely to political, economic, and social change in the 20th century.
+    Appropriately, the library and its holdings are prominently featured on the
+    site, with detailed information on using its collections and its prodigious
+    holdings, including over 850 finding aids. For scholars and researchers, the
+    most helpful aspect of the site may be the diverse set of freely-available research
+    papers, newsletters, and complete books available on the site." 
+
+Repositories of Primary Sources (http://webpages.uidaho.edu/special-collections/other.repositories.html )
+"A
+    listing of over 5000 websites describing holdings of manuscripts, archives,
+    rare books, historical photographs, and other primary sources for the research
+    scholar". 
+
+
+INFORMÁTICA
+ 
+
+Sites
+    Selecionados nacionais 
+ 
+Biblioteca
+    Virtual de Inovação Tecnológica (http://inovacaotecnologica.ibict.br/ )
+"...desenvolvida pelo CNPq/Prossiga em parceira com a
+    FINEP. 
+    Composta por uma seleção de sites nacionais e internacionais, agrupados por
+    assuntos e setores da atividade econômica, ... a biblioteca virtual permite
+    acesso a informações relacionadas ao tema-chave "Inovação Tecnológica",
+    distribuídas em categorias como "Estudos e Diagnósticos Setoriais
+    Brasileiros", "Confederações, Federações e Associações
+    Empresariais", "Centros e Grupos de Pesquisas Tecnológicas
+    Brasileiros", "Indicadores e Estatísticas", "Órgãos de
+    Regulação, Normalização e Fiscalização", "Patentes e Marcas",
+    entre outras. 
+
+Sites
+    Selecionados Internacionais
+ 
+CoRR - Computing Research Repository (https://arxiv.org/corr/home)
+"... provides access to several
+    collections of papers on various research topics in computer science. The goal
+    of CoRR is to provide a repository to which researchers from all fields of
+    computing can submit reports." 
+    Association for Computing Machinery
+ 
+    Networked Computer Science Technical Reference Library (NCSTRL)
+Cryptographic Toolkit (https://csrc.nist.gov/CryptoToolkit/)
+"The Cryptographic Toolkit is being
+    developed by a subgroup of the National Institute of Standards and Technology
+    (NIST), who work to implement and promote cryptographic technologies and
+    efficient practices. The purpose of the toolkit is to "enable US
+    Government agencies and others to select cryptographic security components and
+    functionality for protecting their data, communications, and operations."
+    Several documents make up the Cryptographic Toolkit, providing guidance and
+    standards for encryption, digital signatures, and password usage and
+    generation, to name a few. Four main encryption algorithms are discussed in
+    detail, as well as modes of operation to properly use them."
+ 
+EBONI: Electronic Textbook Design Guidelines  (http://ebooks.cis.strath.ac.uk/eboni/guidelines/)
+"A project of the Joint Information
+    Systems Committee (JISC), EBONI's Electronic Textbook Design Guidelines is a
+    list of baseline standards for the design of hypertext books. Created by Ruth
+    Wilson and Monica Landoni of the Computer and Information Science Department at
+    the University of Strathclyde, UK, the guidelines were established to encourage
+    the use of styles and techniques that have been most successful in terms of
+    usability. Available in HTML, Adobe Acrobat (.pdf) format, or MS Word, the
+    document covers two distinct areas -- on-screen and hardware design guidelines."
+ 
+IEEE Computer Society (https://www.computer.org/)
+ 
+ITpapers (https://www.techrepublic.com/resource-library/content-type/whitepapers/)
+"Brought to the Web by The Applied
+    Technologies Group, Inc. (ATG), ITpapers offers users access to more than
+    23,000 white papers and other documents related to information technology.
+    Holdings here are divided into ten categories, including Corporate Computing,
+    Internet, Software, Hardware, Security, and more. The several layers of
+    subcategories and the summaries of documents make this a very useful site for
+    users searching for information on any aspect of information technology. In addition
+    to browsing, ITpapers can be searched by keyword. Users must register to view
+    content, but the site assures that information is kept
+    confidential." 
+ 
+SQL Interpreter and Tutorial with Live Practice
+    Database  (http://www.sqlcourse.com/)
+"The Structured Query Language (SQL)
+    "is the standard language for relational database management
+    systems." ... can learn the basics, or more advanced users can refresh
+    their memories. The essential commands and functions are introduced in a very
+    straightforward manner. The focus is on tables: creating, adding records to
+    them, and deleting records from them. Once the user feels comfortable with this
+    material, a link to the tutorial's sequel is given, wich goes into intermediate
+    and advanced topics in somewhat greater detail."
+ 
+TextArc  (http://textarc.org/)
+"TextArc is a tool to aid in the
+    discovery of patterns and concepts in arbitrary texts by leveraging a powerful
+    and underutilized resource—human visual processing. It compliments approaches
+    such as Statistical Natural Language Processing and Computational Linguistics
+    by providing a gestalt overview, letting intuition help extract meaning from an
+    unread text. ...TextArc exposes the nature and style of a document's content,
+    not by algorithmic winnowing but by arranging and showing every word. It taps
+    into the ability we all have of pre-attentively reading and associating words
+    at a much greater rate than we consciously read. The eye and mind scan for
+    ideas, then follow the ideas down to where and how they appear in the
+    text." 
+
+
+LETRAS 
+ 
+
+Sites
+    Selecionados nacionais 
+ 
+Cátedra
+    Padre Antônio Vieira de Estudos Portugueses (http://www.letras.puc-rio.br/unidades&nucleos/catedra/revista/gandara_01.html )
+Histórico, autores, Revista Semear, Seminários. 
+ 
+Laboratório
+    de Psicolinguística e Aquisição da Linguagem - PUC-Rio (http://www.lapal.letras.puc-rio.br/ )
+ 
+Departamento
+    de Letras PUC-Rio (http://www.letras.puc-rio.br/ )
+ 
+Sites Selecionados Internacionais
+ 
+The Complete Works of William Shakespeare  (http://shakespeare.mit.edu/ )
+ 
+The Dickens Project (http://dickens.ucsc.edu/ )
+"...the Dickens Project at the
+    University of California-Santa Cruz, promotes the study and enjoyment of the
+    life and work of Charles Dickens. With a research focus on both Dickens and the
+    Victorian age, the Project disseminates research results through a combination
+    of publications, institutes and its annual conference -- The Dickens
+    Universe." 
+
+Verbix
+    (http://www.verbix.com/  )
+Conjuga verbos em mais de 50 línguas, incluindo inglês, espanhol,
+    francês e português. 
+ 
+Wired for books (http://www.wiredforbooks.org/ )
+"The
+    Ohio University Telecommunications Center's Website, "Wired for
+    Books," contains not only published works of local and canonical authors,
+    but also the voices of authors and actors reading selections. ...you can hear
+    the works while reading along with the texts on the Website. Authors currently
+    included are poets Emily Dickenson, Terry Anderson, Bonnie Proudfoot, and
+    Rabindranath Tagore. One of the site's most frequently-visited features is an
+    animated slide show of Beatrix Potter's "The Tale of Peter Rabbit."
+    The site also includes audio segments of Ohio University scholars discussing
+    the works of Raymond Carver, Zora Neale Hurston, Toni Morrison, and Leo
+    Tolstoy." 
+
+
+
+MATEMÁTICA 
+ 
+
+Sites
+    Selecionados nacionais 
+ 
+Biblioteca
+    Virtual de Matemática (http://matematica.ibict.br/ )
+"...parceria entre a Universidade Virtual do Maranhão –
+    UNIVIMA e o Programa PROSSIGA, do Instituto Brasileiro de Informação em Ciência
+    e Tecnologia- IBICT. Seu principal objetivo é facilitar o acesso a informações
+    sobre Matemática, selecionadas de fontes confiáveis existentes na Web,
+    tornando-se assim um valioso instrumento de apoio ao desenvolvimento do ensino
+    e da pesquisa na área." 
+ 
+Sites Selecionados Internacionais
+ 
+Finite Mathematics & Applied Calculus Resource
+    Page (http://www.zweigmedia.com/RealWorld/index.html )
+"Stefan Waner and Steven Costenoble
+    of Hofstra University's Department of Mathematics provide the Finite
+    Mathematics & Applied Calculus Resource Website. This resource offers a
+    plethora of opportunities for the user to enhance his or her mathematical
+    skills. Sections included at the site are Simplex Method Tool, Matrix Algebra
+    Tool, Markov System in Action, and On-Line Numerical Integration, among others.
+    Each section discusses the subject as it relates to Finite Mathematics Applied
+    to the Real World, Calculus Applied to the Real World, and Finite Mathematics
+    & Calculus Applied to the Real World. A highlight of the site is the
+    On-line Interactive Tutorials section. Each tutorial (Algebra, Finite
+    Mathematics, and Calculus) section provides a brief summary of the discussed
+    topic along with a review exercise and true/false quizzes." 
+ 
+Fractals, Chaos (https://scout.wisc.edu/archives/r12125/fractals_chaos )
+"...massive resource on fractals and
+    chaos... examples of many different kinds and classes of fractals, including
+    the Mandelbrot set and various attractors; and brief explanations accompany
+    each one. A substantial introduction to fractals covers the underlying
+    principles and connection to chaos theory. Many stunning, high resolution fractal
+    image galleries show elaborate patterns and colors. Examples of C and PovRay
+    code used to create the remarkable images are provided. ... homepage has many
+    other sections of tutorials, papers, and notes on a diverse range of
+    subjects." 
+ 
+Manipula
+    Math with JAVA [JAVA] (http://www.ies-math.com/math/java/ )
+"IES Inc. (International Education
+    Software) provides Manipula Math with JAVA, an interactive math education site
+    that uses animated applets (JAVA) to illustrate mathematical concepts. Each
+    concept is introduced with a step-by-step explanation accompanied by graphics.
+    A highlight of the interactive images is that users can increase or decrease a
+    variable and see how the graphs change." 
+
+
+
+PSICOLOGIA 
+ 
+
+Sites
+    Selecionados Nacionais
+ 
+
+    Associação Nacional de Dislexia (http://www.andislexia.org.br/)
+O
+    que é, perguntas e respostas, artigos, seminários, etc. 
+ 
+Biblioteca
+    Virtual de Saúde Mental (http://saudemental.ibict.br/ )
+ 
+Sites Selecionados Internacionais
+ 
+Human Intelligence: biographical profiles, current
+    controveries, resources for teachers 
+(http://www.intelltheory.com/ )
+ 
+HTP Prints - The History & Theory of Psychology
+    Eprint Archive 
+(http://researchguides.library.yorku.ca/content.php?pid=239475&sid=1977830 )
+"This eprint server is "offered
+    as a free service to the community of scholarly historians and theoreticians of
+    psychology with the goal of promoting the rapid dissemination of new work in
+    the field." Christopher D. Green of the History & Theory of Psychology
+    Program at York University (Toronto, Canada), maintains HTP Prints with support
+    from York's Arts Technology Support Group, and the papers are both preprints
+    and final versions. Users can browse or search the archive and also sign up to
+    receive updates when new papers are added."
+ 
+Psychwatch.com (http://www.sitesanalytics.com/site/psychwatch.com )
+"..
+    site provides a well-conceived international forum for the discipline. Edited
+    and maintained since 1994 by Dr. Ben Green (a licensed psychiatrist in the
+    United Kingdom), the site features peer-reviewed articles, papers, and case
+    reports from around the world. Part of the Priory group, Psychiatry On-Line
+    contains links to other germane online journals, including the Italian and
+    Brazilian counterparts to the English-language version of Psychiatry On-Line.
+    ..browse the archives of previously featured papers, which are thematically
+    organized under topics ranging from affective disorders to substance
+    abuse." 
+
+
+QUIMICA 
+ 
+
+Sites
+    Selecionados Internacionais
+ 
+Basic Liquid Chromatography  (http://hplc.chem.shu.edu/HPLC/index.html )
+"The online textbook, _Basic Liquid
+    Chromatography_, is provided by Dr. Yuri Kazakevich and Dr. Harold McNair of
+    Seton Hall University. Sections include an introduction, instrumentation,
+    detectors, theory, adsorbents, reversed phase, gel permeation chromatography,
+    column selection, pH effect, and even an online short course." 
+ 
+Chem
+    tutor (http://www.chemtutor.com/ )
+"The chemical finder Web site
+    chem.com provides professionals and researchers a tool to locate chemical
+    products, equipment, companies, catalogues, and more from around the world. The
+    site allows users to search or browse the database and even link directly to
+    the appropriate Web site." 
+
+
+
+REFERÊNCIA / GERAL 
+ 
+
+Sites
+    Selecionados Nacionais
+ 
+MORE
+    – Mecanismo Online para Referências (http://www.more.ufsc.br/ )
+"Ferramenta gratuita e fácil de usar, que produz
+    automaticamente citações no texto e referências no formato ABNT, para quinze
+    (15) tipos de documentos, a partir de formulários próprios, selecionados em um
+    menu principal. Os documentos cobertos pelo mecanismo são os mais usados no
+    meio acadêmico: livros, dicionários, enciclopédias, teses e dissertações,
+    artigos de revistas, artigos de jornais, nos formatos impresso e eletrônico,
+    além dos documentos exclusivos em meio eletrônico: home-page e e-mail. 
+    Além disso o programa automatiza algumas procedimentos tais como: a inversão
+    dos nomes dos autores (sobrenome, prenomes); uso de maiúsculas e minúsculas,
+    grifo no título e pontuação."
+Desenvolvido
+    pela UFSC.
+Sites
+    Selecionados Internacionais
+ 
+Cataloque
+    Collectif de France 
+(http://ccfr.bnf.fr/portailccfr/jsp/portal/index.jsp?success=/jsp/portal/index.jsp&profile=anonymous )
+"Researchers interested in the
+    holdings of French libraries and lesser-known French "centres de
+    documentation" will want to visit the Catalogue Collectif de France
+    (CCFR). A project of the French Ministries of Culture and Education as well as
+    the Bibliotheque Nationale de France, the CCFR is divided into two sections, by
+    institution (Repertoire des Bibliotheques) and by document search (Localisation
+    de Documents). Repertoire des Bibliotheques allows users to search 3,900
+    institutions (Bibliotheque) by name, location, and type of library. Search
+    results include contact information, a brief history, a description of the
+    collections, and details about the services offered." 
+ 
+UNESCO Library Portal (http://www.unesco.org/library/ )
+"This
+    site from UNESCO is offered as a resource for information on both worldwide
+    libraries and issues and news related to librarianship, with an emphasis on
+    "activities in the Organization's fields of competence such as education,
+    sciences, culture and information." As with most portals, this metasite
+    features annotated links organized by category and topic. In this case, they
+    include library Websites (organized by type), library associations and
+    networks, preservation and access initiatives, librarianship, education and
+    training, and conferences and meetings (this section helpfully lists specific
+    events). Other features include library news and a featured site on the main
+    page, an internal search engine, and a free newsletter." 
+
+
+RELAÇÕES INTERNACIONAIS 
+ 
+
+Sites
+    Selecionados Internacionais
+ 
+European Commission: Public Opinion (http://ec.europa.eu/justice/newsroom/contract/opinion/150609_en.htm )
+"The site contains the results from surveys conducted
+    with Europeans on their attitudes towards alcohol, the role of the Euroean
+    Union in formulation secutrity policy, and a number of other topics."
+ 
+The Hoover Institution (http://www.hoover.org/ )
+"...one of the most well-known
+    research centers in the world, the Hoover Institution was founded by Herbert
+    Hoover to collect and archive documents related to the causes and consequences
+    of World War I, and soon grew into one of the largest libraries devoted solely
+    to political, economic, and social change in the 20th century. Appropriately,
+    the library and its holdings are prominently featured on the site, with
+    detailed information on using its collections and its prodigious holdings,
+    including over 850 finding aids. For scholars and researchers, the most helpful
+    aspect of the site may be the diverse set of freely-available research papers,
+    newsletters, and complete books available on the site."
+
+
+
+SERVIÇO SOCIAL 
+ 
+
+Sites
+    Selecionados Nacionais
+ 
+BANCO DE TESES E DISSERTAÇÕES/CAPES (http://bancodeteses.capes.gov.br/ )
+Área: multidisciplinar
+Abrangência: nacional
+Conteúdo: referência bibliográfica e resumo
+Acesso: público e gratuito
+Nota: teses e dissertações apresentadas a partir de 1987. 
+ 
+LivRe! (http://www.cnen.gov.br/centro-de-informacoes-nucleares/livre )
+Área: multidisciplinar
+Abrangência: internacional 
+Conteúdo: referência bibliográfica 
+Acesso: público gratuito 
+Nota: portal desenvolvido pela CNEN - Comissão Nacional de Energia
+    Nuclear, através do CIN - Centro de Informações Nucleares, para facilitar a
+    identificação e o acesso a periódicos eletrônicos de acesso livre na Internet;
+    além da apresentação dos periódicos por letra inicial do título, podem ser
+    feitas buscas por palavras do título e por área do conhecimento segundo a
+    classificação do CNPq, utilizada também no Portal de Periódicos da CAPES.
+Sites
+    Selecionados Internacionais
+ 
+CSA - NATIONAL
+    CRIMINAL JUSTICE REFERENCE SERVICES (https://www.ncjrs.gov/ )
+ 
+CSA SOCIAL SERVICES ABSTRACTS (http://www.lib.vt.edu/find/databases/S/social-services-abstracts-from-csa.html )
+ 
+CSA - SOCIOLOGICAL ABSTRACTS     (http://www.proquest.com/products-services/socioabs-set-c.html )
+ 
+NDLTD - Network Digital Library of Theses and
+    Dissertations (http://www.ndltd.org/ )
+
+
+SOCIOLOGIA 
+ 
+
+Sites
+    Selecionados Nacionais
+ 
+Associação
+    Brasileira de Antropologia (http://www.portal.abant.org.br/ )
+ 
+Biblioteca
+    Virtual de Estudos Culturais (http://www.bibvirtuais.ufrj.br/estudosculturais/ )
+ 
+Biblioteca
+    Virtual Gilberto Freyre  (http://www.liber.ufpe.br/fgf/ )
+ 
+CIDE
+    - Centro de Informações e Dados do Rio de Janeiro (http://geo.ceperj.rj.gov.br/Base/gettabelas.do )
+ 
+Nirema
+    - Núcleo Interdisciplinar de Reflexão e Memória Afrodescendente (http://www.nirema.puc-rio.br/pesquisas_linhas_de_pesquisa.php )
+ 
+RITS
+    - Rede de informações para o terceiro setor 
+(http://www.ongsbrasil.com.br/default.asp?Pag=2&Destino=InstituicoesTemplate&CodigoInstituicao=1933) 
+ 
+Organização sem fins lucrativos,  com a missão de oferecer
+    informações sobre o terceiro setor e acesso democrático à tecnologia de
+    comunicação e gerência do conhecimento. O Acervo da Rits é um banco de
+    referências cuja temática é o terceiro setor; a pesquisa pode ser feita a
+    partir dos seguintes critérios: autores, títulos, idioma, ano da publicação,
+    meio físico da publicação, onde encontrar a publicação, temas, instituição que
+    divulga o documento, existência de arquivo para download ou ainda por
+    palavra-chave que conste da descrição da publicação pesquisada; informações sobre
+    projetos, pessoas e instituições; legislação. 
+
+Sites
+    Selecionados Internacionais 
+ 
+Bibliotecas
+    Virtuales de Ciencias Sociales de América Latina y el Caribe – CLACSO (http://biblioteca.clacso.edu.ar/ )
+ 
+Centre for Civil Society (http://www.lse.ac.uk/CCS/home.aspx )
+"Located at the London School of
+    Economics and Political Science, the Centre for Civil Society (CCS) is a
+    "leading international organization for research, analysis, debate and
+    learning about civil society". Under the direction of Professor Jude
+    Howell, the group performs a broad range of research on the general topic of
+    civil society across the globe, and its Working Papers series is
+    definitely worth a look. Some of the papers here include "Civil society as
+    a metaphor for western liberalism" and "Public-private partnership in
+    the United States: Historical patterns and current trends." 
+ 
+EU - União Européia European (http://europa.eu/index_pt.htm )
+ 
+European Commission: Public Opinion (http://ec.europa.eu/justice/newsroom/contract/opinion/150609_en.htm )
+"The site contains the results from
+    surveys conducted with Europeans on their attitudes towards alcohol, the role
+    of the Euroean Union in formulation secutrity policy, and a number of other
+    topics."
+ 
+The International Center for Not-for-Profit Law (http://www.icnl.org/ )
+"The International Center for
+    Not-for-Profit Law (ICNL) is primarily concerned with helping establish a legal
+    framework for strengthening civil society across the globe. Their work includes
+    providing technical assistance to over 90 countries and partnerships with civil
+    society representatives and government officials. The "Tools and
+    Publications" area will be quite helpful to practitioners in this area as
+    it includes assessment tools (such as a bibliography on the nonprofit sector
+    and civil society) and a number of guidelines for laws affecting civic
+    organizations."
+ 
+United Nations Division for the Advancement of Women (http://www.unwomen.org/en )
+
+
+TEOLOGIA 
+ 
+
+Sites
+    Selecionados Nacionais
+ 
+CNBB 
+    (http://www.cnbb.org.br/ )
+ 
+Google
+    Católico (http://www.googlecatolico.com.br/ )
+ 
+Sites
+    Selecionados Internacionais
+ 
+Biblioteca
+    Apostólica Vaticana (https://www.vatlib.it/)
+ 
+Departament of Religion at the University of Georgia (http://religion.uga.edu/ )
+ 
+Taoism Information Page (http://www.patheos.com/Library/Taoism)
+
+

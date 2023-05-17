@@ -1,0 +1,50 @@
+versão mobile
+Basta acessar http://www.dbd.puc-rio.br/mobile
+
+				A partir da nossa página Versão Mobile, é possível utilizar alguns dos nossos principais serviços, 
+				diretamente através do seus dispositivos móveis, com acesso a Internet (Celular, IPad, etc).
+				O sistema possui uma interface projetada, especificamente, com o intuito de facilitar sua utilização.
+
+				Se preferir, utilize o seu leitor de QR-Code na imagem abaixo:
+
+
+
+Serviços disponíveis
+Ao entrar na página inicial, será apresentado um menu de opções com os serviços disponíveis. Escolha a opção que desejar.
+
+
+
+Consulta
+Com a nova Pesquisa Integrada é possível fazer buscas não só no catálogo, mas em todos os recursos
+				 disponíveis - bases de dados, repositórios acadêmicos, etc.,  e ainda enviar os resultados por email.
+
+				Dica: para ver somente itens do catálogo das bibliotecas, após a pesquisa, clique em <refinar busca>,
+				 selecione <itens no catálogo da biblioteca> e, em seguida, em continuar.
+
+
+
+Renovação
+É possível renovar o prazo dos livros que estão emprestados para você, caso a obra não esteja 
+				reservada para outro usuário..
+
+				Informe o número do seu cartão de identificação da Universidade, não é a matrícula,
+				e a senha de seis números cadastrada na Biblioteca.
+
+				Caso não consiga efetuar a renovação pelo celular, entre em contato com a Biblioteca Central, dentro 
+				do prazo de empréstimo, através dos telefones: 3527-1092 / 3527-1714, ou através do nosso email:
+bcentral@dbd.puc-rio.br
+
+
+
+
+Reservas
+Reservas liberadas:
+				Aqui você pode visualizar as reservas que lhe estão liberadas.
+				Você pode checar pelo celular se os livros que você reservou já estão disponíveis na Biblioteca.
+
+				Reservas pendentes:
+				Aqui você pode visualizar as reservas que ainda estão pendentes.
+				Você pode checar pelo celular a situação e a provável data de devolução dos livros que você reservou.
+
+
+

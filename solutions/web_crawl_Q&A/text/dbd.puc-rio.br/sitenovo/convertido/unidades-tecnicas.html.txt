@@ -1,0 +1,115 @@
+unidades técnicas
+A Divisão de Bibliotecas e Documentação (DBD) é composta pelas seguintes unidades administrativas e técnicas:
+
+Direção / Coordenação de Planejamento e Desenvolvimento / Secretaria
+Seção de Desenvolvimento de Coleções e Aquisição
+Seção de Tratamento da Informação
+Seção de Atendimento e Pesquisa
+Seção de Automação
+
+
+DIREÇÃO / COORDENAÇÃO DE PLANEJAMENTO E DESENVOLVIMENTO / SECRETARIA
+				
+Setor responsável pela administração, organização, planejamento e manutenção da Divisão de Bibliotecas e Documentação.
+Direção / Coordenação de Planejamento e Desenvolvimento / Secretaria 
+Divisão de Bibliotecas e Documentação (DBD) - PUC-Rio 
+Rua Marquês de São Vicente, 225 
+Edifício da Amizade – Ala Frings – 3º andar
+22451-900 - Rio de Janeiro - RJ - Brasil
+
+Tel: (55) (21) 3527-1090 (Secretaria) / 3527-1881 (Coordenação) / 3527-1091 (Direção)
+ou ramais 1090 / 1091 / 1881 (chamadas internas) 
+Fax: (55) (21) 3527-1089
+
+
+Seção de Desenvolvimento de Coleções e Aquisição (DCOL)
+				
+A Seção de Desenvolvimento de Coleções e Aquisição (DCOL) tem como função a seleção, aquisição, o intercâmbio, doação e o registro do acervo do Sistema de Bibliotecas. Conta com o apoio dos departamentos da Universidade para a seleção e a aquisição dos recursos de informação.
+
+Consultas, dúvidas e sugestões, inclusive para novas aquisições, podem ser encaminhadas diretamente à Seção através do e-mail dcol2@dbd.puc-rio.br ou através do Sistema PERGAMUM. 
+
+Seção de Desenvolvimento de Coleções e Aquisição
+Divisão de Bibliotecas e Documentação - PUC-Rio 
+Rua Marquês de São Vicente, 225 
+Edifício da Amizade – Ala Frings – 2º andar
+22451-900 - Rio de Janeiro - RJ - Brasil
+
+Tel: (55) (21) 3527-1088/3527-1089 ou ramais 1088/1089 (para chamadas internas) 
+Fax: (55) (21) 3527-1089
+
+
+Seção de Tratamento da Informação
+		
+		
+A Seção de Tratamento da Informação (STI) é responsável pelo tratamento técnico centralizado de todos os itens documentais, independentemente de seus suportes físicos, adquiridos para o acervo das Bibliotecas que integram o Sistema de Bibliotecas e Documentação e de outras Unidades da PUC-Rio, com vistas a possibilitar o acesso local ou remoto para consulta ou empréstimo destes itens à comunidade de usuários. 
+
+O processo de tratamento da informação compreende a análise descritiva (catalogação), análise temática (classificação e indexação) e o preparo do material para a circulação (etiquetagem e acondicionamento). A análise descritiva baseia-se no uso do AACR2 (Anglo American Cataloguing Rules 2. ed., tradução brasileira)  e a temática na lista de cabeçalhos de assuntos LCSH (Library of Congress Subject Headings) e na  adoção da CDD (Dewey Decimal Classification).
+ 
+Além da catalogação, que oferece como produto o catálogo on-line da DBD, a Seção mantém as bases de dados de autoridades de nomes (nomes pessoais, entidades coletivas e eventos) e de assuntos. Estas bases ficam disponíveis junto ao catálogo on-line e são responsáveis pela padronização das entradas de nomes e assuntos, visando apoiar o processo de tratamento da informação e o de elaboração de levantamentos bibliográficos para que a recuperação da informação seja precisa e relevante.  Tanto a base bibliográfica quanto as bases de autoridades usam o formato MARC 21 para a codificação dos seus metadados. 
+
+A STI oferece o serviço de catalogação na publicação para alunos, professores, funcionários e para a Editora da PUC-Rio através do formulário on-line de solicitação de serviços da DBD. Por meio do link "Solicitações" o usuário solicita e recebe por correio eletrônico, em até dois dias úteis, a ficha catalográfica de sua tese, dissertação, livro e outras publicações.
+ 
+
+Para o esclarecimento de dúvidas sobre os serviços prestados e para a troca de informações técnicas, entre em contato com a Seção através do e-mail sti@dbd.puc-rio.br. 
+
+Seção de Tratamento da Informação
+Divisão de Bibliotecas e Documentação - PUC-Rio 
+Rua Marquês de São Vicente, 225 - Ed. da Amizade – 2º andar
+22451-900 - Rio de Janeiro - RJ - Brasil
+
+Tel: (55) (21) 3527-1037/3527-1087 ou ramais 1037/1087 (para chamadas internas) 
+Fax: (55) (21) 3527-1089
+
+
+Seção de Atendimento e Pesquisa
+	
+
+			
+
+
+
+
+
+
+A Seção de Atendimento e Pesquisa (SAP) tem por função a disseminação do acervo, seu acondicionamento, conservação/preservação e o gerenciamento dos serviços de referência. O atendimento ao usuário é feito presencialmente ou virtualmente, por telefone, e-mail ou chat.
+
+
+Orienta e capacita usuários para o acesso aos recursos disponíveis, através do site da Biblioteca: catálogo on-line (consulta, renovação, reserva) bases de dados nacionais e internacionais, e-Books e periódicos eletrônicos.
+
+
+A SAP, através do atendimento virtual às solicitações de serviços, oferece aos usuários a localização e fornecimento de documentos não disponíveis em nosso acervo, tais como: livros, capítulos de livros, periódicos, artigos de periódicos, cópias de teses e dissertações (na íntegra ou capítulo/parte), que podem ser atendidos por meio eletrônico ou impresso, através de convênios de Comutação Bibliográfica ou Empréstimo entre Bibliotecas.
+
+
+Orienta na normalização da apresentação de dissertações, teses e outros trabalhos acadêmicos da PUC-Rio, de acordo com as Normas Técnicas da ABNT (Associação Brasileira de Normas Técnicas). 
+
+
+Para mais informações entre em contato com a Seção através do e-mail 
+bcentral@dbd.puc-rio.br
+Seção de Atendimento e Pesquisa
+Divisão de Bibliotecas e Documentação - PUC-Rio
+Rua Marquês de São Vicente, 225
+Edifício da Amizade – Ala Frings – 3º andar
+22451-900 - Rio de Janeiro - RJ - Brasil
+
+Tel: (55) (21) 3527-1376/3527-2189 ou ramais 1092/1714 (para chamadas internas) 
+Fax: (55) (21) 3527-1089
+
+
+Seção de Automação
+				
+
+
+A Seção de Automação (SAT) tem como função gerenciar os recursos tecnológicos existentes, o sistema PERGAMUM, dar suporte técnico às atividades que envolvem as TICs disponíveis ao Sistema de Bibliotecas, assim como estudar novas tecnologias para desenvolver aplicações visando à melhoria e inovação dos serviços prestados pela Biblioteca.
+Prestar suporte à comunidade acadêmica da PUC-Rio, em relação aos acessos fora do campus, assinados pela Universidade e à conservação automática de documentos digitais por e-mail.
+Para mais informações, entre em contato com a Seção através do e-mail sat@dbd.puc-rio.br.
+
+Seção de Automação
+Divisão de Bibliotecas e Documentação
+Rua Marquês de São Vicente, 225
+Edifício da Amizade – Ala Frings – 4º andar
+22451-900 - Rio de Janeiro – RJ - Brasil
+
+Tel: (55) (21) 3527-1095/ 3527-1278 ou ramais 1095/1278 (para chamadas internas)
+Fax: (55) (21) 3527-1089
+
+

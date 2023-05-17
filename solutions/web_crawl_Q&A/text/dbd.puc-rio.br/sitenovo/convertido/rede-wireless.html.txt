@@ -1,0 +1,17 @@
+WI-FI PUC
+Serviço que possibilita acesso à Internet,  via rede wireless da Universidade.
+
+				O acesso à Rede WI-FI PUC é restrito a:
+
+				1. Professores, funcionários, e alunos dos cursos regulares (graduação e pós) que tenham vínculo ativo com a Universidade;
+				2. Alunos dos cursos de extensão, mediante solicitação do IAG ou da CCE; e
+				3. Filiados à AaA, mediante solicitação desta Associação.
+				4. Convidados especiais, durante eventos, mediante uso de login e senha do evento.
+
+
+Rede: Wi-Fi PUC 
+Login e senha: concedidos pelo Rio Datacentro (RDC). Para mais informações, clique  aqui, ou contate o RDC:
+Central de Atendimento do RDC
+						cat@puc-rio.br
+						(21) 3527-1481
+
